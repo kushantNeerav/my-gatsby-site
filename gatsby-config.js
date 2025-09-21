@@ -41,6 +41,7 @@ module.exports = {
     `gatsby-plugin-mdx`,
 
     // ✅ Image optimization
+    `gatsby-plugin-image`,       // <--- Added this
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
 

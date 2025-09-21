@@ -7,10 +7,10 @@ const Home = () => {
     <div style={{ textAlign: "center", padding: "2rem" }}>
       <h1>Home Page</h1>
 
-      {/* ✅ Optimized Image */}
+      {/* ✅ Optimized Gatsby Image */}
       <StaticImage
-        src="../images/New.jpg"
-        alt="New Image"
+        src="../images/Poland.jpeg"
+        alt="Poland"
         placeholder="blurred"
         layout="constrained"
         width={600}
